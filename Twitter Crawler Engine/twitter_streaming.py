@@ -12,9 +12,9 @@ import sys
 
 #Variables that contains the user credentials to access Twitter API 
 access_token = "860289631379697664-8zjf8xVsOerunuDiEPQtVFssIGI7ewz"
-access_token_secret = "2gbdZWMiBZwBRWB3q7Uo0VFU7M49jwpZQWcbZ8loBa1Er"
+access_token_secret = "SECRET"
 consumer_key = "j37pbECfjb4sy9tlDHoz9pGo1"
-consumer_secret = "Vhf488q1uRhzTQdb2CbyifpbsnO5w1KYuBLrdpOGbt2HeRBHqV"
+consumer_secret = "SECRET"
 
 
 # authentification to access twitter data 
