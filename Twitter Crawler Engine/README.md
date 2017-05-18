@@ -1,4 +1,4 @@
-# Twitter Engine
+# Twitter Scraper Engine
 ### An extension based off Jefferson-Henrique's "GetOldTweets," an API he made for retrieving tweets that extend past the 7 day limitation put on by Twitter's official API. Here is his GetOldTweets program: https://github.com/Jefferson-Henrique/GetOldTweets-python
 
 ## To run this Python program, you need to have the following libraries installed: tweepy, pquery, pycparser, beautifulsoup4, lxml, Flask, Flask-Tweepy 
