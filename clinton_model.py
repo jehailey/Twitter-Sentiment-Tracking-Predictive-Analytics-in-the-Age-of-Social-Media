@@ -1,6 +1,6 @@
 # Jeong eun Lee (jlee562)
 # Arpan Ghosh (aghosh17)
-# EN.600.466 Informational Retrieval and Web Agents 
+# EN.600.466 Informational Retrieval and Web Agents  
 
 # Python Script for Sentiment Analysis on given data
 
