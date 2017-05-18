@@ -1,8 +1,8 @@
-## Twitter Sentiment Tracking: Predictive Analytics in the Age of Social Media
-### EN.600.466 Informational Retrieval and Web Agents 
+## Twitter Sentiment Tracking: Predictive Analytics in the Age of Social Media 
+EN.600.466 Informational Retrieval and Web Agents 
 
-### Jeong eun (Hailey) Lee, jlee562@jhu.edu 
-### Arpan Ghosh, aghosh17@jhu.edu 
+Jeong eun (Hailey) Lee, jlee562@jhu.edu 
+Arpan Ghosh, aghosh17@jhu.edu 
 
 ## Note: Please view the "Project Write-Up" PDF for more in-depth analysis, findings, and conclusion.
 
